@@ -1,0 +1,42 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript build files
+dist/
+build/
+
+# Environment variables file
+.env
+
+# Log files
+*.log
+
+# npm debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript configuration files
+tsconfig.tsbuildinfo
+
+# IDE and editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Generated files
+*.tgz
+*.zip
+
+# LangChain specific files (if applicable)
+*.json
+
